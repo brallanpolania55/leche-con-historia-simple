@@ -1,0 +1,430 @@
+open-sans-uniquifier{
+  font-family:"Open Sans", "sans-serif";
+  font-optical-sizing: auto;
+  font-weight:weight;
+   font-style: normal;
+  font-variation-settings:wdth100;}
+  
+.lato-thin {
+  font-family:"Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family:"Lato", sans-serif;
+  font-weight:300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight:400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight:700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight:900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight:100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family:"Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family:"Lato", sans-serif;
+  font-weight:400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", "sans-serif";
+  font-weight:700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight:900;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+  header{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+  #banner{
+    padding-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+  .formulario{
+    background: #81AE49;
+    background-size:1500px;
+    padding:10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+
+  #titulo1{
+    color: darkgreen; 
+    font-family: "sans-serif", "open sans";
+    font-size: 40px ;
+    text-align: center;
+    width:100%;
+}
+
+
+  .nyp{
+    float: left;
+}
+
+  #etiqueta1{ color: white; 
+    font-style: "sans-serif";
+}
+
+
+  #nombreyapellido{
+    cursor: pointer
+}
+
+  .texti{
+    color: black;
+}
+
+  #etiqueta2{
+    color: white;
+}
+
+  .em{
+    font-style: "sans-serif";
+    float: right;
+    }
+    
+  #email{
+    cursor: pointer;
+    }
+    
+    
+    
+    
+    
+
+  
+  
+  .cta{
+    font-style: italic;
+    color: white;
+    font-size:25px;
+    width: 100%;
+  }
+    
+  #vidocow{
+    padding-top:30px;
+    padding-bottom:30px;
+    width: 1000px;;
+    height:600px;
+    margin:0 auto;
+  }
+
+
+ 
+    
+    
+  #titulo2{
+    color: white; font-style: italic;
+} 
+
+
+  #tituloalt{
+    font-family: "Lato", sans-serif;
+    font-weight:900;
+    font-style: normal;
+}
+
+
+
+  #titulo4{
+    color: black;
+    font-size:40px;
+    font-family: "Lato", sans-serif;
+    font-weight:900;
+    font-style: normal;
+}
+
+  p.texto{
+    color: black; 
+    font-size:25px; 
+    padding:10px;
+}
+
+  #parrafo1{
+    font-family: "Lato", sans-serif;
+  font-weight:400;
+  display: flex;
+  flex-wrap: wrap;
+  font-style: normal;
+  font-size:30px;
+  text-align: justify;
+  position: relative;
+  width: 100%;
+}
+
+
+.imageni{
+  width:65%;
+  border-radius:10px;
+  padding-left:250px;
+}
+
+#iframe{
+  width: 970px;
+  height: 700px;
+  padding-left:250px;
+}
+
+#tituconta{
+  font-style:"lato-black";
+  font-size:30px;
+  text-align:left;
+  padding:10px;
+  width:100%;
+}
+
+.contactar{
+  text-align: center;
+  
+}
+
+#boton{
+  width:125px;
+  height:35px;
+  font-style:"lato-black";
+  font-size:30px;
+  color: white;
+  border-color: white;
+  border-width:3px;
+  border-radius:5px;
+  background-color: darkgreen;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+
+
+
+  a:hover{
+    color:#81AE49;
+    
+}
+
+.textoinfo{
+  font-size:30px;
+  font-style:"lato-thin";
+  width: 100%;
+}
+
+
+#tituloalt{
+  font-size:40px;
+  font-family: "Lato", sans-serif;
+  font-weight:900;
+  font-style: normal;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+#paton{
+  font-family: "Lato", sans-serif;
+  font-weight:400;
+  font-style: normal;
+  font-size:30px;
+  padding:20px ;
+  text-align: justify;
+  width: 100;
+}
+
+
+.cta {
+  background: #81AE49;
+  padding-right:0px;
+  text-align: center;
+  width: 100%;
+}
+
+  
+#cseleche{
+  background-color: lightgray;
+  margin: 100px;
+  width:70%;
+  padding-left:10px;
+  border-radius:10px;
+  font-size:30px;
+  font-style: "lato";
+  background-size: cover;
+  text-align: left;
+  color: black;
+}
+#tituloleche{
+  text-align: left;
+  padding-top:20px;
+  font-style: "lato-black";
+  font-size:40px;
+  color: black;
+}
+.lecherecole{
+  float: right;
+  width:400px;
+  height:600px;
+  padding:20px;
+  border-radius:30px;
+
+}
+
+.quesot{
+  font-size:30px;
+  text-align: justify;
+  font-style: "lato";
+  font-size:30px;
+  padding-top:30px;
+  padding-bottom:5px;
+  width: 1300px;
+}
+
+#tituloqueso{
+  text-align: center;
+  font-style: "open-sans-uniquifier";
+  font-size:40px;
+  width: 100%;
+}
+
+
+
+#queso{
+  width:700px;
+  height:450px;
+  border-radius:20px;
+  margin:0px auto;
+  display: flex;
+  justify-content: center;
+}
+
+ #tituloyogurt{
+  text-align: center;
+  font-style: "open-sans-uniquifier";
+  font-size:40px;
+  width:1300px;
+ }
+ 
+ 
+ 
+ #yogurt{
+   width:700px;
+  border-radius:20px;
+  margin-left:320px;
+  display: flex;
+  justify-content: center;
+  height:450px;
+ }
+ .yogurttext{
+  font-size:30px;
+  text-align: justify;
+  font-style: "lato";
+  font-size:30px;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-left:30px;
+  width:1300px;
+ }
+
+#titulomante{
+  text-align: center;
+  font-style: "open-sans-uniquifier";
+  font-size:40px;
+  width:1300px;
+}
+
+#mantequilla{
+  width:700px;
+  height:450px;
+  border-radius:20px;
+  margin-left:320px;
+  display: flex;
+  justify-content: center;
+  padding-bottom:30px;
+}
+
+.mantequillatext{
+  font-size:30px;
+  text-align: justify;
+  font-style: "lato";
+  font-size:30px;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-left:30px;
+  width:1300px;
+}
+#facebook{
+  width:45px;
+}
+
+#instalo{
+  width:40px;
+  height:40px;
+}
+.sigueinsta{
+  color: blue ;
+ }
+ 
+.xl{
+  width:40px;
+  height:40px;
+}
+
+.siguex{
+  color: blue;
+}
+
+footer {
+  background-color: #81AE49;
+  width: 100%;
+  padding-top:10px;
+  color: white;
+  text-align: center;
+  font-size:25px;
+  margin-left:10px;
+  ;}
+  
+  
